@@ -1,0 +1,16 @@
+export default {
+  LOGO: require('../Assets/Images/logo.png'),
+  DELIVER: require('../Assets/Images/deliver.png'),
+  DISCOVER: require('../Assets/Images/discover.png'),
+  FAVORITE: require('../Assets/Images/favorite.png'),
+  LOADING: require('../Assets/Images/loading.json'),
+  STORE_LOADING: require('../Assets/Images/storeLoading.json'),
+  ADDRESS_LOADING: require('../Assets/Images/addressLoading.json'),
+  FRIED_CHICKEN: require('../Assets/Images/fried_chicken.png'),
+  BURGER: require('../Assets/Images/burger.png'),
+  PIZZA: require('../Assets/Images/pizza.png'),
+  DESSERT: require('../Assets/Images/dessert.png'),
+  NOODLES: require('../Assets/Images/noodles.png'),
+  DRINKS: require('../Assets/Images/drinks.png'),
+  LOCATION_PERMISSION: require('../Assets/Images/location_permission.png'),
+};
